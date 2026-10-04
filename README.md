@@ -47,6 +47,22 @@ Exploratory analysis of IPL match data using Python, pandas, and Matplotlib.
 
 ---
 
+### 🚦 Indian Road Accident Dashboard — Power BI
+Interactive Power BI dashboard analyzing road accidents across India through KPIs, yearly trends, accident causes, state-wise comparisons, severity, road type, and city-level filtering.
+
+**Key work:**
+- Total accident and death KPIs
+- Year-wise accident analysis
+- Cause-wise accident analysis
+- State-level comparison
+- Road-type risk analysis
+- Accident severity analysis
+- Interactive city filtering
+
+🔗 [View Project](https://github.com/VipulAnalyst/powerbi-indian-road-accident-dashboard)
+
+---
+
 ### 📈 Superstore Dashboard — Power BI
 Interactive Power BI dashboard created to practice business reporting, KPI visualization, dashboard design, and data storytelling.
 
