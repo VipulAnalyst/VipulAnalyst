@@ -1,97 +1,61 @@
-# 👋 Hi, I'm Vipul
+# Hi, I'm Vipul Dubey
 
-### Aspiring Data Analyst | Python • SQL • Excel • Power BI
+### Entry-Level Data Analyst | SQL • Python • Power BI • Excel
 
-I'm building practical data analysis skills through hands-on projects involving **data exploration, visualization, dashboards, and analytical problem-solving**.
+BBA graduate with completed Data Analyst training and a **Data Analyst internship at SWYNEX Technologies**. My portfolio covers data cleaning, exploratory analysis, interactive dashboards and business reporting.
 
-My focus is on developing the technical and business skills required for a professional **Data Analyst** role.
+I'm seeking **Data Analyst, Business Analyst and MIS / Reporting Analyst** opportunities in **Gurugram or remote** roles.
 
----
+## SWYNEX Technologies — Data Analyst Internship
 
-## 🛠️ Skills & Tools
+**September–October 2026 | Completed**
 
-**Data Analysis**
-- Python
-- SQL
-- Microsoft Excel
-- Power BI
+Four connected project-based submissions follow an e-commerce practice dataset from preparation to analysis, visualization and a final report.
 
-**Python Libraries**
-- pandas
-- Matplotlib
+| Stage | Internship project | Work covered |
+| --- | --- | --- |
+| 1 | [E-commerce Data Cleaning](https://github.com/VipulAnalyst/ecommerce-data-cleaning) | Python and Pandas: invalid dates, duplicates, data types, category standardization and documentation of three total-amount mismatches. |
+| 2 | [E-commerce Exploratory Data Analysis](https://github.com/VipulAnalyst/Ecommerce_eda) | Analysis of 116 orders and 14 columns, including category, city, monthly and payment-method comparisons, charts and anomaly checks. |
+| 3 | [E-commerce Sales Dashboard](https://github.com/VipulAnalyst/Ecommerce-Dashboard) | Power BI, Power Query and DAX: order-value KPIs, delivered order value, average order value, cancellation rate and interactive visualizations. |
+| 4 | [Final E-commerce Analytics Project & Report](https://github.com/VipulAnalyst/E-commerceDashboard) | Consolidated cleaning, EDA, Power BI dashboard and final report with findings, data-quality considerations and recommendations. |
 
-**Tools**
-- Jupyter Notebook
-- VS Code
-- MySQL
-- Git & GitHub
-- Power BI Desktop
+**Start here:** [Final project and report](https://github.com/VipulAnalyst/E-commerceDashboard), then explore the individual stages above.
 
----
+These submissions use a **practice dataset**. Reported order values include different order statuses where stated; delivered order value does not establish confirmed payment collection. The EDA and dashboard use different treatments of anomalies, documented in their repositories.
 
-## 📊 Featured Projects
+## Independent Portfolio Projects
 
-### 🏏 IPL Data Analysis — Python
-Exploratory analysis of IPL match data using Python, pandas, and Matplotlib.
+### Indian Road Accident Dashboard
+Interactive Power BI analysis of yearly trends, accident causes, severity, state and city comparisons, supported by Excel data preparation.
 
-**Key work:**
-- Dataset inspection
-- DataFrame indexing and filtering
-- Frequency analysis
-- Custom Python functions
-- Winner analysis
-- Toss-decision analysis
-- Bar and pie chart visualizations
+[Explore the dashboard](https://github.com/VipulAnalyst/powerbi-indian-road-accident-dashboard)
 
-🔗 [View Project](https://github.com/VipulAnalyst/ipl-data-analysis-python)
+### IPL Data Analysis
+Python analysis of **636 matches and 18 columns**, covering team wins, city-wise match distribution and toss decisions with Pandas and Matplotlib.
 
----
+[Explore the analysis](https://github.com/VipulAnalyst/ipl-data-analysis-python)
 
-### 🚦 Indian Road Accident Dashboard — Power BI
-Interactive Power BI dashboard analyzing road accidents across India through KPIs, yearly trends, accident causes, state-wise comparisons, severity, road type, and city-level filtering.
+### Sample Superstore Dashboard
+Power BI dashboard for sales, profit and business-performance analysis using Power Query and DAX.
 
-**Key work:**
-- Total accident and death KPIs
-- Year-wise accident analysis
-- Cause-wise accident analysis
-- State-level comparison
-- Road-type risk analysis
-- Accident severity analysis
-- Interactive city filtering
+[Explore the dashboard](https://github.com/VipulAnalyst/PowerBI-Superstore_Dashboard)
 
-🔗 [View Project](https://github.com/VipulAnalyst/powerbi-indian-road-accident-dashboard)
+## Skills & Tools
 
----
+| Area | Skills |
+| --- | --- |
+| SQL | Joins, subqueries, CTEs, window functions, aggregations; MySQL; basic SQL Server |
+| Python | Pandas, NumPy, Matplotlib, Seaborn, data cleaning and EDA |
+| Power BI | Power Query, data modeling, basic DAX, interactive dashboards and KPI reporting |
+| Excel | PivotTables, XLOOKUP, VLOOKUP/HLOOKUP, formulas, conditional formatting and data validation |
+| Workflow | Jupyter Notebook, VS Code, Git/GitHub and Google Sheets |
 
-### 📈 Superstore Dashboard — Power BI
-Interactive Power BI dashboard created to practice business reporting, KPI visualization, dashboard design, and data storytelling.
+## Education & Training
 
-🔗 [View Project](https://github.com/VipulAnalyst/PowerBI-Superstore_Dashboard)
+- **BBA**, DPG Institute of Technology & Management, Gurugram — 2022–2025.
+- **Data Analyst Training**, Aptech Learning Institute — completed in 2026; completion certificate pending issuance.
 
----
+## Connect
 
-## 🌱 Currently Improving
-
-- Advanced SQL for Data Analysis
-- Python for Data Analysis
-- Excel analytical skills
-- Power BI dashboard development
-- Real-world Data Analyst projects
-
----
-
-## 🎯 Career Goal
-
-My goal is to become a skilled **Data Analyst** who can clean, analyze, visualize, and interpret data to support better business decisions.
-
-I am continuously improving my skills by practicing concepts and building practical projects.
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [VipulAnalyst](https://github.com/VipulAnalyst)
-
----
-
-⭐ **Learning by doing, one dataset at a time.**
+- [LinkedIn](https://www.linkedin.com/in/vipul-dubey-6b7376431/)
+- [GitHub portfolio](https://github.com/VipulAnalyst)
